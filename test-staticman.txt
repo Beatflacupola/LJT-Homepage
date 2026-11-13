@@ -1,0 +1,2 @@
+  allowedFields          : ['name', 'email', 'url', 'message']
+  requiredFields         : ['name', 'email', 'message']
